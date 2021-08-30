@@ -1,7 +1,7 @@
 # Counter App
 
 ##### A Counter App built using React. Built as a part of internship training at [Incredible Visibility](https://www.incrediblevisibility.com/)
-<br>
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e307be77-f193-4aa7-a9c5-5ade2d134421/deploy-status)](https://app.netlify.com/sites/mycounter-app-react/deploys)
 <br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
